@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -20,4 +21,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
