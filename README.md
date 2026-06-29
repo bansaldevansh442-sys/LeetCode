@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 ## Hash Table
