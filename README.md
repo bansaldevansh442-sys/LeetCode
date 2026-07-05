@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Two Pointers
