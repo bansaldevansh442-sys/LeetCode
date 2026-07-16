@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
