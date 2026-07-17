@@ -75,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
@@ -116,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
