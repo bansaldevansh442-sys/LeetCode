@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0048-rotate-image) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Design
 |  |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Queue
 |  |
