@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Simulation
 |  |
@@ -178,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
