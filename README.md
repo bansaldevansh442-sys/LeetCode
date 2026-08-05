@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Math
@@ -207,14 +209,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
