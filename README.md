@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0994-rotting-oranges) |
