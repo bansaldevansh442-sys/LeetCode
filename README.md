@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0118-pascals-triangle) |
+| [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
@@ -216,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
@@ -230,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
