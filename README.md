@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Bit Manipulation
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0547-number-of-provinces) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
