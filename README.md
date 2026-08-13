@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
@@ -264,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
