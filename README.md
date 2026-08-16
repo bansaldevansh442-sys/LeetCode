@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1901-find-a-peak-element-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 | [2104-sum-of-subarray-ranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -276,4 +280,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0022-generate-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
