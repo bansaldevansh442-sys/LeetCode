@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0200-number-of-islands) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0155-min-stack) |
 | [0901-online-stock-span](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
