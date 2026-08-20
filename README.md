@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -310,4 +312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
