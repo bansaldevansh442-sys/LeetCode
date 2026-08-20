@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0054-spiral-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
