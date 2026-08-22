@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
