@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [1927-sum-game](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 ## Matrix
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1927-sum-game](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1927-sum-game](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
