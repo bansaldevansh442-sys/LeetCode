@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
+| [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0148-sort-list) |
+| [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -209,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
