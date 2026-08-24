@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0148-sort-list) |
+| [0392-is-subsequence](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0542-01-matrix) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0127-word-ladder) |
+| [0392-is-subsequence](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/bansaldevansh442-sys/LeetCode/tree/master/1927-sum-game) |
